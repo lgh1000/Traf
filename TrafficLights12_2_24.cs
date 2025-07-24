@@ -112,7 +112,9 @@ public class TrafficLights : MonoBehaviour {
         //PrintUnityPaths(); // Print all paths to see where files could be saved
 
         // Use persistentDataPath for saving data
-        csvFilePath = "/Users/sn/Desktop/TrafficFlowProject/calcualted metrics/TrafficLightsTesting11_24_24_260kstepstrained.csv";
+        csvFilePath = "/Users/sn/Desktop/TrafficFlowProject/calculated_metrics_baseline30sec_largeCityAvg12_2_24/TrafficLightsTestingLargeCity07_04_25_baseline30_2.csv";
+
+        // csvFilePath = "/Users/sn/Desktop/TrafficFlowProject/calcualted metrics/TrafficLightsTesting11_24_24_260kstepstrained.csv";
         //Debug.Log("CSV will be saved to: " + csvFilePath);
         //csvFilePath = "TrafficLightsTesting11_23_24_baseline3.csv";
 

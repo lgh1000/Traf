@@ -293,7 +293,9 @@ public class TrafficCar : MonoBehaviour
         // Create a CSV file in the persistent data path // changed Users/sn/Downloads/Trafficmetrics.csv
         //csvFilePath = "TrafficmetricsOptimization_2Rewards2PPO_879Car4_23_24.csv";// will be saved in /Users/sn/Downloads/TrafficManagementMLAgent 2/Trafficmetrics.csv
         //csvFilePath = "TrafficmetricsTesting11_23_24_260kstepstrained3.csv";
-        csvFilePath = "/Users/sn/Desktop/TrafficFlowProject/calcualted metrics/TrafficMetricsTesting11_24_24_260kstepstrained.csv";        //csvFilePath = "TrafficmetricsTesting11_23_24_baseline.csv";
+        csvFilePath = "/Users/sn/Desktop/TrafficFlowProject/calculated_metrics_baseline30sec_largeCityAvg12_2_24/TrafficMetricsTestingLargeCity07_04_25_baseline30_2.csv";
+
+        // csvFilePath = "/Users/sn/Desktop/TrafficFlowProject/calcualted metrics/TrafficMetricsTesting11_24_24_260kstepstrained.csv";        //csvFilePath = "TrafficmetricsTesting11_23_24_baseline.csv";
         //csvFilePath = "TrafficmetricsTRUEBaselineEnv238ObsLRCons_B0.05_R3_4_24_24_1.csv";
         //csvFilePath = "TrafficmetricsTRUEBaselineEnv238ObsLRCons_B0.05_R3_4_27_24_Light20.csv";
         //csvFilePath = "TrafficCarsTRUEBaselineEnv879Step1_7_On_4_28_24.csv";
